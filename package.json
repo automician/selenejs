@@ -1,0 +1,23 @@
+{
+  "name": "SelenideJS",
+  "version": "0.0.1",
+  "description": "Concise UI Tests in JavaScript + Ajax support",
+  "main": "config.js",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "selenium-webdriver": "^3.0.1",
+    "typescript": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "pretest": "npm run tsc",
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "selenium-webdriver",
+    "Typescript"
+  ],
+  "author": "Iakiv Kramarenko",
+  "license": "MIT"
+}
