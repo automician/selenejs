@@ -1,6 +1,9 @@
 # SelenideJS - Concise API for Selenium in JavaScript
 (Selenide port from Java to JavaScript)
 
+This repo was an initial try to port Selenide to JavaScript by @yashaka (Iakiv Kramarenko)
+After Iakiv had joined http://k-expert.com, the work on the port was moved to https://github.com/KnowledgeExpert/selenidejs, where under his leadership the work was continued, mainly by @AleksanderPopov, with the help of [other contributors](https://github.com/KnowledgeExpert/selenidejs/graphs/contributors).
+
 Main features:
 - Concise API for Selenium
 - Ajax support
