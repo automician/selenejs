@@ -1,7 +1,6 @@
-# SelenideJS - Concise API for Selenium in JavaScript
-(Selenide port from Java to JavaScript)
+# SeleneJs - Concise API for Selenium in JavaScript [PROTOTYPE]x
 
-This repo was an initial try to port Selenide to JavaScript by [@yashaka](https://github.com/yashaka) (Iakiv Kramarenko)
+This repo was an initial try to port [Selenide](http://selenide.org/) from Java and [Selene](https://github.com/yashaka/selene) from Python to JavaScript by [@yashaka](https://github.com/yashaka) (Iakiv Kramarenko)
 After Iakiv had joined http://k-expert.com, the work on the port was moved to https://github.com/KnowledgeExpert/selenidejs, where under his leadership the work was continued, mainly by [@AleksanderPopov](https://github.com/AleksanderPopov), with the help of [other contributors](https://github.com/KnowledgeExpert/selenidejs/graphs/contributors).
 
 Main features:
@@ -13,9 +12,7 @@ Todo:
 - jQuery-style selectors
 - improved PageObjects support (with probably some alternative syntax to "then.then.then")
 
-SelenideJS was inspired by [Selenide](http://selenide.org/) from Java world.
-
-NOTE: This is still a draft version and API is nut fully finalized and implemented. The package is not available in npm, etc.
+NOTE: This was just a draft version and API was not fully finalized and implemented. The package was not available in npm, etc.
 
 ## Example
 
